@@ -36,7 +36,7 @@ Após instalar uma das extensões mencionadas, siga os seguintes passos:
 
 - **Nome do Script**: Auto Click "Voltar à Live"
 - **Versão**: 1.2
-- **Última Atualização**: [Data da última atualização]
+- **Última Atualização**: 06/02/2025
 - **Autor**: 9ais
 - **Página do Script**: [GitHub - Auto-Click-Back-to-Live-on-Twitch](https://github.com/nxvais/Auto-Click-Back-to-Live-on-Twitch)
 
