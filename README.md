@@ -39,7 +39,3 @@ Após instalar uma das extensões mencionadas, siga os seguintes passos:
 - **Última Atualização**: 06/02/2025
 - **Autor**: 9ais
 - **Página do Script**: [GitHub - Auto-Click-Back-to-Live-on-Twitch](https://github.com/nxvais/Auto-Click-Back-to-Live-on-Twitch)
-
-## Licença
-
-Este projeto está licenciado sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
